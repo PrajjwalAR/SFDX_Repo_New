@@ -5,10 +5,6 @@
         <name>ApexPage</name>
     </types>
     <types>
-        <members>AccountTriggerHandler</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
         <members>apexEmailNotifications</members>
         <name>ApexEmailNotifications</name>
     </types>
