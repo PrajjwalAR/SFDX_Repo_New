@@ -2,7 +2,6 @@
     <version>67.0</version>
     <types>
         <members>ChangePasswordController</members>
-        <members>CheckmarxVulnSample</members>
         <name>ApexClass</name>
     </types>
 </Package>
