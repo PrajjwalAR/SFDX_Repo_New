@@ -2,7 +2,6 @@
     <version>67.0</version>
     <types>
         <members>Account.wr2</members>
-        <members>Case.testtest</members>
         <name>WorkflowTask</name>
     </types>
 </Package>
