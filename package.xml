@@ -7,8 +7,9 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>ChangePasswordController</members>
-        <name>ApexClass</name>
+        <members>AC1</members>
+        <members>AC2</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>CustomLabels</members>
