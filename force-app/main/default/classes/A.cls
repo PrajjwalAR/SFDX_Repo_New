@@ -4,7 +4,7 @@ public class A implements Schedulable {
 //checkwebhoo
         System.debug('testis executing.');
         
-        // Example logic: You can add real logic like updating
+        // Example logic: You can add real logic like updatingswde
     }
 }
 test
