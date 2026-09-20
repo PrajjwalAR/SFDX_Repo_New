@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>A0BasicClass</members>
-        <members>vlocity_cmt__sfiAdsImportPlacementBatch</members>
-        <members>vlocity_cmt__sfiAdsImportPlacementController</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>AC1</members>
-        <members>AC2</members>
-        <name>CustomLabel</name>
-    </types>
-    <types>
-        <members>CustomLabels</members>
-        <name>CustomLabels</name>
-    </types>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>67.0</version>
+    <types>
+        <members>AnswersHome</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>apexEmailNotifications</members>
+        <name>ApexEmailNotifications</name>
+    </types>
 </Package>
