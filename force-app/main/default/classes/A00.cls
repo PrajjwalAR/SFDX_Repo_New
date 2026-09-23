@@ -1,4 +1,4 @@
-public Class A00 {fghj
+public Class A00 {
 public Account createAccount(String name) {
 Account sai55= new Account();
 sai55.Name = name;

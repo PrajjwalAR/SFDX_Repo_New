@@ -100,4 +100,3 @@ private class AccountWebsiteDisplayTest {
         System.assertEquals('example.com', result, 'URL should be trimmed before the HTTP prefix is stripped');
     }
 }
-hj
