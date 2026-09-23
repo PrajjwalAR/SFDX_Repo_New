@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>cdpactvstrgptnr__Google_Ads</members>
+        <members>cdpactvstrgptnr__Meta_Facebook</members>
+        <members>cdpactvstrgptnr__SnapchatPlatform</members>
+        <name>ActivationPlatform</name>
+    </types>
+    <types>
         <members>et4ae5__ConfigIncludes</members>
         <name>ApexComponent</name>
     </types>
