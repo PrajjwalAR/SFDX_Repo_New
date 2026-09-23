@@ -9,6 +9,8 @@
     <types>
         <members>A00</members>
         <members>A0BasicClass</members>
+        <members>SDO_Service_BotsResetPassword</members>
+        <members>SDO_Service_BotsUpdateCaseSubject</members>
         <name>ApexClass</name>
     </types>
     <types>
