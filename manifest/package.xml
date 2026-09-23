@@ -11,6 +11,8 @@
         <members>A0BasicClass</members>
         <members>SDO_Service_BotsResetPassword</members>
         <members>SDO_Service_BotsUpdateCaseSubject</members>
+        <members>vlocity_cmt__XssController</members>
+        <members>vlocity_cmt__Zippex</members>
         <name>ApexClass</name>
     </types>
     <types>
