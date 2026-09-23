@@ -12,7 +12,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SiteHeader</members>
+        <members>SitePoweredBy</members>
         <members>et4ae5__ConfigIncludes</members>
+        <members>vlocity_cmt__XOMQueueItemsComponent</members>
         <name>ApexComponent</name>
     </types>
     <types>
