@@ -7,6 +7,11 @@
         <name>ActivationPlatform</name>
     </types>
     <types>
+        <members>A00</members>
+        <members>A0BasicClass</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>et4ae5__ConfigIncludes</members>
         <name>ApexComponent</name>
     </types>
