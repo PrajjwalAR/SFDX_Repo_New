@@ -23,7 +23,10 @@
         <name>ApexComponent</name>
     </types>
     <types>
+        <members>AnswersHome</members>
+        <members>BandwidthExceeded</members>
         <members>ChangePassword</members>
+        <members>vlocity_cmt__b2bmap</members>
         <name>ApexPage</name>
     </types>
     <types>
