@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Referral_Management_306002f7_a36c_11f1_b01f_8934a1bc3e85</members>
+        <name>ActionPlanTemplate</name>
+    </types>
+    <types>
         <members>General_Contact_List</members>
         <members>General_Lead_List</members>
         <name>ActionableListDefinition</name>
+    </types>
+    <types>
+        <members>cdpactvstrgptnr__LinkedIn_Conversions_API</members>
+        <members>cdpactvstrgptnr__Meta_Conversions_API</members>
+        <name>ActivationPlatform</name>
     </types>
     <types>
         <members>AutocreatedTokenExchHandler1731318208120</members>
