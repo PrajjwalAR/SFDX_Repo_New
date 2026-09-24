@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>67.0</version>
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>General_Contact_List</members>
+        <members>General_Lead_List</members>
+        <name>ActionableListDefinition</name>
+    </types>
     <types>
         <members>AutocreatedTokenExchHandler1731318208120</members>
         <members>CRMforNonProfit__AccountCampaignAgregationBatch</members>
@@ -735,4 +740,25 @@
         <members>joshdaymentlabs__TestDataFetcherObjectPickerController</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>apexEmailNotifications</members>
+        <name>ApexEmailNotifications</name>
+    </types>
+    <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
+        <members>template_feedback</members>
+        <members>template_feedback_reasons</members>
+        <members>template_generation_count</members>
+        <name>DataCalcInsightTemplate</name>
+    </types>
+    <types>
+        <members>bhanu_eca_oauthSecurity</members>
+        <members>eca_test_oauthSecurity</members>
+        <members>prajjwal_rag_defOauthSecuritySet</members>
+        <name>ExtlClntAppOauthSecuritySettings</name>
+    </types>
+    <version>67.0</version>
 </Package>
