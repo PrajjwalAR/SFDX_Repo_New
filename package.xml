@@ -6715,6 +6715,31 @@
         <name>DataCategoryGroup</name>
     </types>
     <types>
+        <members>ATBK</members>
+        <members>DMAdmin</members>
+        <members>EFPIO</members>
+        <members>FIECUS</members>
+        <members>LLC_BI</members>
+        <members>LLC_HI</members>
+        <members>MTRNS</members>
+        <members>NDOC</members>
+        <members>RegUS</members>
+        <members>SCALC</members>
+        <members>SCOC</members>
+        <members>SDMOC</members>
+        <members>matrix_manager</members>
+        <members>nArchive</members>
+        <members>nCRED</members>
+        <members>nCino</members>
+        <members>nDESIGN</members>
+        <members>nFORCE</members>
+        <members>nFORMS</members>
+        <members>nFUSE</members>
+        <members>ncinoocr</members>
+        <members>sf_com_apps</members>
+        <name>InstalledPackage</name>
+    </types>
+    <types>
         <members>Account</members>
         <name>Workflow</name>
     </types>
