@@ -6702,6 +6702,55 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>SD_Ac</members>
+        <members>SD_Ac1</members>
+        <name>CnfgItemAttrDef</name>
+    </types>
+    <types>
+        <members>SD_App</members>
+        <members>SD_AtRis</members>
+        <name>CnfgItemAttrPcklstValDef</name>
+    </types>
+    <types>
+        <members>SD_Ap</members>
+        <members>SD_Bu</members>
+        <name>CnfgItemAttrPicklistDef</name>
+    </types>
+    <types>
+        <members>SD_Ab01</members>
+        <name>CnfgItemAttrSetAttr</name>
+    </types>
+    <types>
+        <members>SD_AiBase</members>
+        <members>SD_ApDe</members>
+        <name>CnfgItemAttrSetDef</name>
+    </types>
+    <types>
+        <members>SD_AWS</members>
+        <members>SD_Agent</members>
+        <name>CnfgItemSourceDefinition</name>
+    </types>
+    <types>
+        <members>SD_AIApp01</members>
+        <members>SD_AIApp02</members>
+        <name>CnfgItemTypeAttrRelDef</name>
+    </types>
+    <types>
+        <members>SD_AIApp</members>
+        <members>SD_AcCo</members>
+        <name>CnfgItemTypeDef</name>
+    </types>
+    <types>
+        <members>SD_AcCoDeIpAd</members>
+        <members>SD_AcCoDeIpCo</members>
+        <name>CnfgItemTypeRelationDef</name>
+    </types>
+    <types>
+        <members>SD_AcsCtl</members>
+        <members>SD_ActsOn</members>
+        <name>CnfgMgmtRelationTypeDef</name>
+    </types>
+    <types>
         <members>AC1</members>
         <members>AC2</members>
         <name>CustomLabel</name>
@@ -6713,6 +6762,10 @@
     <types>
         <members>Audience</members>
         <name>DataCategoryGroup</name>
+    </types>
+    <types>
+        <members>TestFlowValueMap</members>
+        <name>FlowValueMap</name>
     </types>
     <types>
         <members>ATBK</members>
@@ -6738,6 +6791,20 @@
         <members>ncinoocr</members>
         <members>sf_com_apps</members>
         <name>InstalledPackage</name>
+    </types>
+    <types>
+        <members>TestTelemetryActionDefinition</members>
+        <members>arm</members>
+        <name>TelemetryActionDefinition</name>
+    </types>
+    <types>
+        <members>Test</members>
+        <name>TelemetryDefinition</name>
+    </types>
+    <types>
+        <members>ARM</members>
+        <members>DREAM</members>
+        <name>TelemetryDefinitionVersion</name>
     </types>
     <types>
         <members>Account</members>

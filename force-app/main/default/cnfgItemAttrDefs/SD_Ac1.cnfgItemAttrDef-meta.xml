@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemAttrDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataType>Boolean</dataType>
+    <displayName>Active</displayName>
+    <isActive>true</isActive>
+    <isHidden>false</isHidden>
+    <isMain>false</isMain>
+    <isRequired>false</isRequired>
+    <isUsedForCorrelation>false</isUsedForCorrelation>
+    <label>Active</label>
+</CnfgItemAttrDef>

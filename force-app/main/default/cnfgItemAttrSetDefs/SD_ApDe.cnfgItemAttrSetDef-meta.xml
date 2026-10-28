@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemAttrSetDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <displayName>Application Details</displayName>
+    <isActive>true</isActive>
+    <label>Application_Details</label>
+</CnfgItemAttrSetDef>

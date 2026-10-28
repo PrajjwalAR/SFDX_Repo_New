@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemTypeRelationDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cnfgMgmtRelationTypeDef>SD_CoOf</cnfgMgmtRelationTypeDef>
+    <label>Access Control Device_IP Connection_Rel</label>
+    <sourceConfigurationItemType>SD_AcCoDe</sourceConfigurationItemType>
+    <targetConfigurationItemType>SD_IpCo</targetConfigurationItemType>
+</CnfgItemTypeRelationDef>

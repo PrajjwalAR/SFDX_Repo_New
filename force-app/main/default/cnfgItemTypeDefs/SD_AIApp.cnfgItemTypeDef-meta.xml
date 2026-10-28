@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemTypeDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contentAsset>SD_AIApp</contentAsset>
+    <description>Business-facing root of the Agentic hierarchy. Subtype of Application. One capability may span several Platforms - the accountable anchor and the sole bridge into BusinessService / criticality / FinOps.</description>
+    <displayName>AI Application</displayName>
+    <isAssetTracking>false</isAssetTracking>
+    <isComponent>false</isComponent>
+    <isUsedForTransientCnfgItm>false</isUsedForTransientCnfgItm>
+    <label>AI_Application</label>
+    <status>Used</status>
+</CnfgItemTypeDef>

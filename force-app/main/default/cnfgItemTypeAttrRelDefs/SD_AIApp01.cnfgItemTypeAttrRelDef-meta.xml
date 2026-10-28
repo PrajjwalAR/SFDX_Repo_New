@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemTypeAttrRelDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cnfgItemAttrDef>SD_AiPltfm</cnfgItemAttrDef>
+    <cnfgItemTypeDef>SD_AIApp</cnfgItemTypeDef>
+    <isActive>true</isActive>
+    <isHidden>false</isHidden>
+    <isMain>false</isMain>
+    <isPrimary>false</isPrimary>
+    <isReadOnly>false</isReadOnly>
+    <isRequired>true</isRequired>
+    <isUsedInRelMap>false</isUsedInRelMap>
+    <label>SD_AIApp01</label>
+</CnfgItemTypeAttrRelDef>

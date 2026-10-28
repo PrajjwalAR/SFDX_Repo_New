@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemSourceDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Collects data from a lightweight agent installed on Windows, Mac, and Linux endpoints.</description>
+    <isActive>false</isActive>
+    <isCustom>false</isCustom>
+    <isEnabled>true</isEnabled>
+    <label>SD_Agent</label>
+    <sourceName>Agent</sourceName>
+</CnfgItemSourceDefinition>

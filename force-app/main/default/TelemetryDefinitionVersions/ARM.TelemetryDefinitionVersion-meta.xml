@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TelemetryDefinitionVersion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isActive>true</isActive>
+    <masterLabel>ARM</masterLabel>
+    <telemetryComponentStructure>{&quot;Truck&quot;:{&quot;HVAC&quot;:{&quot;Temperature&quot;:{&quot;type&quot;:&quot;Sensor&quot;,&quot;dataType&quot;:&quot;Number&quot;},&quot;SetTemperature&quot;:{&quot;type&quot;:&quot;Actuator&quot;,&quot;dataType&quot;:&quot;Number&quot;}}}}</telemetryComponentStructure>
+    <telemetryDefinition>Test</telemetryDefinition>
+    <versionNumber>2</versionNumber>
+</TelemetryDefinitionVersion>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TelemetryDefinitionVersion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isActive>true</isActive>
+    <masterLabel>DREAM</masterLabel>
+    <telemetryComponentStructure>{&quot;Truck&quot;:{&quot;Temperature&quot;:&quot;Sensor&quot;,&quot;SetTemperature&quot;:&quot;Actuator&quot;}}</telemetryComponentStructure>
+    <telemetryDefinition>Test</telemetryDefinition>
+    <versionNumber>3</versionNumber>
+</TelemetryDefinitionVersion>

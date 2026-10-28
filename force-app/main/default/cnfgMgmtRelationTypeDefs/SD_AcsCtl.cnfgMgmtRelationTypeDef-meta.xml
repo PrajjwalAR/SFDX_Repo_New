@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgMgmtRelationTypeDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <colorCode>#B73030</colorCode>
+    <directRelationshipName>Access Controlled By</directRelationshipName>
+    <inverseRelationshipName>Controls Access To</inverseRelationshipName>
+    <label>Access Controlled By</label>
+    <lineStrokeSpecification>Solid</lineStrokeSpecification>
+    <usageStatus>Used</usageStatus>
+</CnfgMgmtRelationTypeDef>

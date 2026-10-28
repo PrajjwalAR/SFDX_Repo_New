@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TelemetryActionDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionName>TestAction</actionName>
+    <masterLabel>TestActionDefinition</masterLabel>
+    <telemetryDefinitionVersion>Test_TelemetryDefinitionVersion</telemetryDefinitionVersion>
+</TelemetryActionDefinition>
