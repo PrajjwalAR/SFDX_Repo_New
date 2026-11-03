@@ -1,5 +1,9 @@
 public Class A00 {bnmmnbnm
+<<<<<<< HEAD
 public Account createAccount(String name) { tets clofldhe
+=======
+public Account createAccount(String name) {erfdsefdsdfds
+>>>>>>> branch 'test2empty' of https://github.com/PrajjwalAR/SFDX_Repo_New.git
 Account sai55= new Account();
 sai55.Name = name;
 return sai55; 
