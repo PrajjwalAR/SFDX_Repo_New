@@ -1,7 +1,7 @@
 public with sharing class AccountDataService {
 
     public static void processAccountData() {
-        Map<String, Schema.SObjectType> globalDescribe = Schema.getGlobalDescribe();
+        Map<String, test.SObjectType> globalDescribe = Schema.getGlobalDescribe();
 
         // Check whether TempAccount__c exists in this org
         if (!globalDescribe.containsKey('TempAccount__c')) {

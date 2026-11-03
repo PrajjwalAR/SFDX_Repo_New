@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemTypeDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Access Concentrator</description>
+    <displayName>Access Concentrator</displayName>
+    <isAssetTracking>true</isAssetTracking>
+    <isComponent>false</isComponent>
+    <isUsedForTransientCnfgItm>false</isUsedForTransientCnfgItm>
+    <label>Access_Concentrator</label>
+    <status>Used</status>
+</CnfgItemTypeDef>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgMgmtRelationTypeDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <colorCode>#38761D</colorCode>
+    <directRelationshipName>Acts On</directRelationshipName>
+    <inverseRelationshipName>Acted On By</inverseRelationshipName>
+    <label>Acts On</label>
+    <lineStrokeSpecification>Dashed</lineStrokeSpecification>
+    <usageStatus>Used</usageStatus>
+</CnfgMgmtRelationTypeDef>
