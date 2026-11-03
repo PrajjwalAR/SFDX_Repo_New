@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AC1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>2</shortDescription>
+        <value>new</value>
+    </labels>
+    <labels>
+        <fullName>AC2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AC211201</shortDescription>
+        <value>97</value>
+    </labels>
+</CustomLabels>
