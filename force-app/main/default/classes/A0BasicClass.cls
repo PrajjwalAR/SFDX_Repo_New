@@ -1,4 +1,4 @@
-public class A0BasicClass {
+public class A0BasicClass {//tets colflcys
     
     // Variable
     public String message;
