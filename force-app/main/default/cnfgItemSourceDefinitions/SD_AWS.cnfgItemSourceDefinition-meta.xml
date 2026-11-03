@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemSourceDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Discovers cloud resources such as EC2, VPCs, S3, and load balancers from AWS.</description>
+    <isActive>false</isActive>
+    <isCustom>false</isCustom>
+    <isEnabled>true</isEnabled>
+    <label>SD_AWS</label>
+    <sourceName>Aws</sourceName>
+</CnfgItemSourceDefinition>

@@ -1,7 +1,7 @@
-public class A0BasicClass {
+public class A0BasicClass {//tets colflcys
     
     // Variable
-    public String message;
+    public String message; // conflict
 
     // Constructor
     public A0BasicClass() {
