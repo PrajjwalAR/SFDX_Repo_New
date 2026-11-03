@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<<<<<<< HEAD
+=======
     <types>
+        <members>cdpactvstrgptnr__Google_Ads</members>
+        <members>cdpactvstrgptnr__Meta_Facebook</members>
+        <members>cdpactvstrgptnr__SnapchatPlatform</members>
+        <name>ActivationPlatform</name>
+    </types>
+    <types>
+        <members>A00</members>
+        <members>A0BasicClass</members>
+        <members>SDO_Service_BotsResetPassword</members>
+        <members>SDO_Service_BotsUpdateCaseSubject</members>
+        <members>vlocity_cmt__XssController</members>
+        <members>vlocity_cmt__Zippex</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>SiteHeader</members>
+        <members>SitePoweredBy</members>
+        <members>et4ae5__ConfigIncludes</members>
+        <members>vlocity_cmt__XOMQueueItemsComponent</members>
+        <name>ApexComponent</name>
+    </types>
+>>>>>>> branch 'test2empty' of https://github.com/PrajjwalAR/SFDX_Repo_New.git
+    <types>
+<<<<<<< HEAD
         <members>Referral_Management_306002f7_a36c_11f1_b01f_8934a1bc3e85</members>
         <name>ActionPlanTemplate</name>
     </types>
@@ -748,12 +774,21 @@
         <members>joshdaymentlabs__TestDataFetcherFieldSelectorController</members>
         <members>joshdaymentlabs__TestDataFetcherObjectPickerController</members>
         <name>ApexClass</name>
+=======
+        <members>AnswersHome</members>
+        <members>BandwidthExceeded</members>
+        <members>ChangePassword</members>
+        <members>vlocity_cmt__b2bmap</members>
+        <name>ApexPage</name>
+>>>>>>> branch 'test2empty' of https://github.com/PrajjwalAR/SFDX_Repo_New.git
     </types>
     <types>
-        <members>apexEmailNotifications</members>
-        <name>ApexEmailNotifications</name>
+        <members>qbranch__Q_Passport_oauth_c4s__Q_Passport_oauth_c4sCanvas</members>
+        <members>xdo__XDO_Automation_Staging_oauth_c4s__XDO_Automation_Staging_oauth_c4sCanvas</members>
+        <name>CanvasMetadata</name>
     </types>
     <types>
+<<<<<<< HEAD
         <members>Internal Zone</members>
         <name>Community</name>
     </types>
@@ -768,6 +803,15 @@
         <members>eca_test_oauthSecurity</members>
         <members>prajjwal_rag_defOauthSecuritySet</members>
         <name>ExtlClntAppOauthSecuritySettings</name>
+=======
+        <members>Account</members>
+        <members>Case</members>
+        <name>Workflow</name>
+    </types>
+    <types>
+        <members>Account.wr2</members>
+        <name>WorkflowTask</name>
+>>>>>>> branch 'test2empty' of https://github.com/PrajjwalAR/SFDX_Repo_New.git
     </types>
     <version>67.0</version>
 </Package>

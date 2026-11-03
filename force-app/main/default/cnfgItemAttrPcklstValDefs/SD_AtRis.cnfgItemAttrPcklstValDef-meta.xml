@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgItemAttrPcklstValDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cnfgItemAttrPicklistDef>SD_Co</cnfgItemAttrPicklistDef>
+    <label>SD_AtRis</label>
+    <picklistValueName>At Risk</picklistValueName>
+</CnfgItemAttrPcklstValDef>
