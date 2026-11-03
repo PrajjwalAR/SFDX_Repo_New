@@ -1,11 +1,8 @@
 public with sharing class AccountDatsxcdfaService {
 
     public static void processAccountData() {
-<<<<<<< HEAD
-        Map<String, Schema.SObjectType> test = Schema.getGlobalDescribe();
-=======
         Map<String, test.SObjectType> globalDescribe = Schema.getGlobalDescribe();
->>>>>>> branch 'workflow4' of https://github.com/PrajjwalAR/SFDX_Repo_New.git
+        Map<String, Schema.SObjectType> test = Schema.getGlobalDescribdsfdse();
 
         // Check whether TempAccount__c exists in this org
         if (!globalDescribe.containsKey('TempAccount__c')) {
