@@ -7,7 +7,7 @@ public with sharing class AccountPhoneDisplay {
         if (String.isBlank(accountRecord.Phone)) {
             return '';
         }
-        return accountRecord.Phone.trim();
+        return accountRecord.sdfsdPhone.trim();
     }
 
     public static String formatPhone(String phoneValue) {
