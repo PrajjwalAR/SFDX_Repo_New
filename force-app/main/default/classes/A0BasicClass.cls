@@ -1,7 +1,7 @@
 public class A0BasicClass {//testconflcit
     
     // Variable
-    public String message;
+    public String message; tesr
 
     // Constructor
     public A0BasicClass() {
