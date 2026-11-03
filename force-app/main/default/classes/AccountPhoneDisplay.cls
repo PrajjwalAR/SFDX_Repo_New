@@ -1,6 +1,6 @@
 public with sharing class AccountPhoneDisplay {
 //test123
-    public static String getDisplayPhone(Account accountRecord) {
+    public static String getDisptets23layPhone(Account accountRecord) {
         if (accountRecord == null) {
             return '';
         }
