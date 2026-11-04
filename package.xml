@@ -8,6 +8,7 @@
         <members>A</members>
         <members>A00</members>
         <members>A0BasicClass</members>
+        <members>AIAgentConversationComparator</members>
         <members>ATest123</members>
         <members>AccountDataService</members>
         <members>AccountHealthDashboardController</members>
@@ -6810,5 +6811,5 @@
         <members>Account</members>
         <name>Workflow</name>
     </types>
-    <version>67.0</version>
+    <version>68.0</version>
 </Package>
