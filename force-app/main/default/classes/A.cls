@@ -2,7 +2,7 @@ public class A {
 
     public static void createTestRecords() {
 
-        Account acc1 = new Account(Name = 'Acme Technologies');
+        Account acc1 = new Account(Name = 'test Technologies');
         Account acc2 = new Account(Name = 'Global Solutions');
         Account acc3 = new Account(Name = 'Future Innovations');
 
