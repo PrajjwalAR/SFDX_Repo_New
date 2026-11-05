@@ -1,14 +1,34 @@
-public class A{
+public class A {
 
-  Account a1 = new Account();
-Account a111 = new Account();
-Contact c = new Contact();
- Contact c111 = new Contact();
-Contact EEE = new Contact();
-Contact    FFF111 = new Contact();    
-Contact FFF112 = new Contact();
-Contact FFF11modi = new Contact();
-//chhv
- //SSSSAsiARMirsaas
+    public static void createTestRecords() {
 
+        Account acc1 = new Account(Name = 'Acme Technologies');
+        Account acc2 = new Account(Name = 'Global Solutions');
+        Account acc3 = new Account(Name = 'Future Innovations');
+
+        insert new List<Account>{acc1, acc2, acc3};
+
+        Contact con1 = new Contact(
+            FirstName = 'John',
+            LastName = 'Smith',
+            AccountId = acc1.Id,
+            Email = 'john.smith@example.com'
+        );
+
+        Contact con2 = new Contact(
+            FirstName = 'Sarah',
+            LastName = 'Johnson',
+            AccountId = acc2.Id,
+            Email = 'sarah.johnson@example.com'
+        );
+
+        Contact con3 = new Contact(
+            FirstName = 'Michael',
+            LastName = 'Brown',
+            AccountId = acc3.Id,
+            Email = 'michael.brown@example.com'
+        );
+
+        insert new List<Contact>{con1, con2, con3};
+    }
 }
