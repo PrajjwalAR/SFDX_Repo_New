@@ -6793,6 +6793,10 @@
         <name>InstalledPackage</name>
     </types>
     <types>
+        <members>AR39966_UseAnyApiAuth</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>TestTelemetryActionDefinition</members>
         <members>arm</members>
         <name>TelemetryActionDefinition</name>
@@ -6810,5 +6814,5 @@
         <members>Account</members>
         <name>Workflow</name>
     </types>
-    <version>67.0</version>
+    <version>68.0</version>
 </Package>
