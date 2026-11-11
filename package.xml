@@ -1618,6 +1618,10 @@
         <members>vlocity_cmt__B2BCmexApplyConfigInvocableTest</members>
         <members>vlocity_cmt__B2BCmexApplyFrameContractPricing</members>
         <members>vlocity_cmt__B2BCmexApplyFrameContractPricingTest</members>
+        <members>vlocity_cmt__B2BCmexApplyStagingController</members>
+        <members>vlocity_cmt__B2BCmexApplyStagingControllerTest</members>
+        <members>vlocity_cmt__B2BCmexAssetAttributeValidationBatch</members>
+        <members>vlocity_cmt__B2BCmexAssetAttributeValidationBatchTest</members>
         <members>vlocity_cmt__B2BCmexAssetController</members>
         <members>vlocity_cmt__B2BCmexAssetControllerTest</members>
         <members>vlocity_cmt__B2BCmexAssetService</members>
@@ -1629,6 +1633,10 @@
         <members>vlocity_cmt__B2BCmexAsyncJobStatusInvocableTest</members>
         <members>vlocity_cmt__B2BCmexAsyncJobStatusService</members>
         <members>vlocity_cmt__B2BCmexAsyncJobStatusServiceTest</members>
+        <members>vlocity_cmt__B2BCmexAttrUpdateFromStagingService</members>
+        <members>vlocity_cmt__B2BCmexAttrUpdateFromStagingServiceTest</members>
+        <members>vlocity_cmt__B2BCmexAttributeValidationInvocable</members>
+        <members>vlocity_cmt__B2BCmexAttributeValidationInvocableTest</members>
         <members>vlocity_cmt__B2BCmexBaseCloneInterface</members>
         <members>vlocity_cmt__B2BCmexBaseCreateService</members>
         <members>vlocity_cmt__B2BCmexBaseCreateServiceTest</members>
@@ -1646,6 +1654,8 @@
         <members>vlocity_cmt__B2BCmexBulkPriceUpdateInvocableTest</members>
         <members>vlocity_cmt__B2BCmexCartEnrichBatchProcessor</members>
         <members>vlocity_cmt__B2BCmexCartEnrichBatchProcessorTest</members>
+        <members>vlocity_cmt__B2BCmexCartValidationService</members>
+        <members>vlocity_cmt__B2BCmexCartValidationServiceTest</members>
         <members>vlocity_cmt__B2BCmexCloneImpl</members>
         <members>vlocity_cmt__B2BCmexCloneInBatch</members>
         <members>vlocity_cmt__B2BCmexCloneInvocable</members>
@@ -1659,8 +1669,12 @@
         <members>vlocity_cmt__B2BCmexCreateInBatch</members>
         <members>vlocity_cmt__B2BCmexCreateOppInvocableAction</members>
         <members>vlocity_cmt__B2BCmexCreateOppInvocableActionTest</members>
+        <members>vlocity_cmt__B2BCmexCreateQLIFromStagingInvocable</members>
+        <members>vlocity_cmt__B2BCmexCreateQLIFromStagingInvocableTest</members>
         <members>vlocity_cmt__B2BCmexCreateQMFromAssetsInBatch</members>
         <members>vlocity_cmt__B2BCmexCreateQMFromAssetsInBatchTest</members>
+        <members>vlocity_cmt__B2BCmexCreateQMFromStagingInvocable</members>
+        <members>vlocity_cmt__B2BCmexCreateQMFromStagingInvocableTest</members>
         <members>vlocity_cmt__B2BCmexCreateQuoteInvocable</members>
         <members>vlocity_cmt__B2BCmexCreateQuoteInvocableTest</members>
         <members>vlocity_cmt__B2BCmexCreateQuoteMembersInvocable</members>
@@ -1670,7 +1684,17 @@
         <members>vlocity_cmt__B2BCmexDeleteDiscountUtil</members>
         <members>vlocity_cmt__B2BCmexDeletePromoFromEC</members>
         <members>vlocity_cmt__B2BCmexDeletePromoFromECTest</members>
+        <members>vlocity_cmt__B2BCmexDocExtractionAccountResolver</members>
+        <members>vlocity_cmt__B2BCmexDocExtractionAccountResolverTest</members>
+        <members>vlocity_cmt__B2BCmexDocExtractionController</members>
+        <members>vlocity_cmt__B2BCmexDocExtractionControllerTest</members>
         <members>vlocity_cmt__B2BCmexException</members>
+        <members>vlocity_cmt__B2BCmexFwCoordinator</members>
+        <members>vlocity_cmt__B2BCmexFwCoordinatorTest</members>
+        <members>vlocity_cmt__B2BCmexFwScenarioConfig</members>
+        <members>vlocity_cmt__B2BCmexFwScenarioConfigFactory</members>
+        <members>vlocity_cmt__B2BCmexFwScenarioConfigFactoryTest</members>
+        <members>vlocity_cmt__B2BCmexFwScenarioConfigTest</members>
         <members>vlocity_cmt__B2BCmexGateController</members>
         <members>vlocity_cmt__B2BCmexGateControllerTest</members>
         <members>vlocity_cmt__B2BCmexGaterConstants</members>
@@ -1692,13 +1716,22 @@
         <members>vlocity_cmt__B2BCmexGetRootItemsWithErrInvocableTest</members>
         <members>vlocity_cmt__B2BCmexHasCartErrorsInvocable</members>
         <members>vlocity_cmt__B2BCmexHasCartErrorsInvocableTest</members>
+        <members>vlocity_cmt__B2BCmexIdpExtractionParser</members>
+        <members>vlocity_cmt__B2BCmexIdpExtractionParserTest</members>
         <members>vlocity_cmt__B2BCmexInstrumentationService</members>
         <members>vlocity_cmt__B2BCmexInstrumentationServiceTest</members>
         <members>vlocity_cmt__B2BCmexInvocableUtils</members>
         <members>vlocity_cmt__B2BCmexInvocableUtilsTest</members>
+        <members>vlocity_cmt__B2BCmexMacdAssetLocMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexMacdAssetMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexMacdAssetProdMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexMacdAttrValidationInvocable</members>
+        <members>vlocity_cmt__B2BCmexMatchingController</members>
+        <members>vlocity_cmt__B2BCmexMatchingControllerTest</members>
         <members>vlocity_cmt__B2BCmexMoveOIsWCToEC</members>
         <members>vlocity_cmt__B2BCmexMovePlanService</members>
         <members>vlocity_cmt__B2BCmexMoveQLIsWcToEC</members>
+        <members>vlocity_cmt__B2BCmexMoveQLIsWcToECStagingHook</members>
         <members>vlocity_cmt__B2BCmexMoveQLIsWcToECTest</members>
         <members>vlocity_cmt__B2BCmexNotificationLabelResolver</members>
         <members>vlocity_cmt__B2BCmexOPRService</members>
@@ -1721,7 +1754,36 @@
         <members>vlocity_cmt__B2BCmexOrderPriceAdjustmentCloneImplTest</members>
         <members>vlocity_cmt__B2BCmexOrderService</members>
         <members>vlocity_cmt__B2BCmexOrderServiceTest</members>
+        <members>vlocity_cmt__B2BCmexPremisesFromStagingInvocable</members>
+        <members>vlocity_cmt__B2BCmexPremisesFromStagingInvocableTest</members>
+        <members>vlocity_cmt__B2BCmexPremisesMatchingConfig</members>
+        <members>vlocity_cmt__B2BCmexPremisesMatchingConfigTest</members>
+        <members>vlocity_cmt__B2BCmexPremisesService</members>
+        <members>vlocity_cmt__B2BCmexPremisesServiceTest</members>
         <members>vlocity_cmt__B2BCmexPriceQLIsBatch</members>
+        <members>vlocity_cmt__B2BCmexProdLocAttrValidationConfig</members>
+        <members>vlocity_cmt__B2BCmexProdLocAttrValidationConfigTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocPremisesMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexProdLocProductMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexProdLocProductMatchingConfig</members>
+        <members>vlocity_cmt__B2BCmexProdLocProductMatchingConfigTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocQLIMatchBatch</members>
+        <members>vlocity_cmt__B2BCmexProdLocQLIMatchBatchTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocQLIMatchConfig</members>
+        <members>vlocity_cmt__B2BCmexProdLocQLIMatchConfigTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocQLIMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexProdLocQLIMatchInvocableTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocQMMatchInvocable</members>
+        <members>vlocity_cmt__B2BCmexProdLocQMMatchInvocableTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocQMMatchingBatch</members>
+        <members>vlocity_cmt__B2BCmexProdLocQMMatchingBatchTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocQMMatchingConfig</members>
+        <members>vlocity_cmt__B2BCmexProdLocQMMatchingConfigTest</members>
+        <members>vlocity_cmt__B2BCmexProdLocUpdLineItemInvocable</members>
+        <members>vlocity_cmt__B2BCmexProdLocUpdLineItemInvocableTest</members>
+        <members>vlocity_cmt__B2BCmexProductMatchingBatch</members>
+        <members>vlocity_cmt__B2BCmexQMFromStagingService</members>
+        <members>vlocity_cmt__B2BCmexQMFromStagingServiceTest</members>
         <members>vlocity_cmt__B2BCmexQuoteController</members>
         <members>vlocity_cmt__B2BCmexQuoteControllerTest</members>
         <members>vlocity_cmt__B2BCmexQuoteLineItemCloneImpl</members>
@@ -1738,6 +1800,12 @@
         <members>vlocity_cmt__B2BCmexSiteAuthService</members>
         <members>vlocity_cmt__B2BCmexSiteAuthVFController</members>
         <members>vlocity_cmt__B2BCmexSiteAuthVFControllerTest</members>
+        <members>vlocity_cmt__B2BCmexSplitQuoteService</members>
+        <members>vlocity_cmt__B2BCmexStagingDataService</members>
+        <members>vlocity_cmt__B2BCmexStagingToQLIService</members>
+        <members>vlocity_cmt__B2BCmexStagingToQLIServiceTest</members>
+        <members>vlocity_cmt__B2BCmexStagingToQuoteService</members>
+        <members>vlocity_cmt__B2BCmexStagingToQuoteServiceTest</members>
         <members>vlocity_cmt__B2BCmexSubOrderHandler</members>
         <members>vlocity_cmt__B2BCmexSubOrderHandlerTest</members>
         <members>vlocity_cmt__B2BCmexTestDataFactory</members>
@@ -5611,6 +5679,7 @@
         <members>vlocity_cmt__TMF641ServiceOrderSystemInterfaceTest</members>
         <members>vlocity_cmt__TMF641ServiceOrdersSystemInterface</members>
         <members>vlocity_cmt__TMF641ServiceOrdersSystemInterfaceTest</members>
+        <members>vlocity_cmt__TMFGates</members>
         <members>vlocity_cmt__TMFMuleIntegrationService</members>
         <members>vlocity_cmt__TMFMuleIntegrationServiceTest</members>
         <members>vlocity_cmt__TMFOpenAPIAbstractService</members>
@@ -5867,6 +5936,8 @@
         <members>vlocity_cmt__V2BaseCartItemService</members>
         <members>vlocity_cmt__V2BaseCartItemServiceTest</members>
         <members>vlocity_cmt__V2CardinalityService</members>
+        <members>vlocity_cmt__V2CartItemIndicatorService</members>
+        <members>vlocity_cmt__V2CartItemIndicatorServiceTest</members>
         <members>vlocity_cmt__V2CartRequestContextServiceImpl</members>
         <members>vlocity_cmt__V2CartUtility</members>
         <members>vlocity_cmt__V2CartUtilityTest</members>
