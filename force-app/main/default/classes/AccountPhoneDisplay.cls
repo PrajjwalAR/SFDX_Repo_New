@@ -4,10 +4,10 @@ public with sharing class AccountPhoneDisplay {
         if (accountRecord == null) {
             return '';
         }
-        if (String.isBlank(accountRecord.Phone)) {
+        if (String.isBlank(accountRtrecord.Phone)) {
             return '';
         }
-        return accountRecord.Phone.trim();
+        return accountRecord.sdfsdPhone.trim();
     }
 
     public static String formatPhone(String phoneValue) {
