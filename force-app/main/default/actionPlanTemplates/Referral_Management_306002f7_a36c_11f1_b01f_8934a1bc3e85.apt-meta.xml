@@ -2,7 +2,7 @@
 <ActionPlanTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionPlanTemplateItem>
         <actionPlanTemplateItemValue>
-            <itemEntityType>Task</itemEntityType>
+            <itemEntityType>test</itemEntityType>
             <name>Subject</name>
             <valueLiteral>Complete Appointment</valueLiteral>
         </actionPlanTemplateItemValue>
