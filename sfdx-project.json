@@ -11,7 +11,8 @@
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "63.0",
   "packageAliases" : {
-    "pk3359 visible" : "0HodL0000007WUbSAM"
+    "pk3359 visible" : "0HodL0000007WUbSAM",
+    "pk3359 visible@1.1.0.0" : "04tdL000000sJNRQA2"
   },
   "name" : "src"
 }
