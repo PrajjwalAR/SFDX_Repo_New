@@ -1,10 +1,17 @@
 {
   "packageDirectories" : [ {
     "path" : "force-app",
-    "default" : true
+    "default" : true,
+    "package" : "pk3359 visible",
+    "scopeProfiles" : "false",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "63.0",
+  "packageAliases" : {
+    "pk3359 visible" : "0HodL0000007WUbSAM"
+  },
   "name" : "src"
 }
