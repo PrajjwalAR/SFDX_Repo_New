@@ -12,7 +12,8 @@
   "sourceApiVersion" : "63.0",
   "packageAliases" : {
     "pk3359 repro" : "0HodL0000007WRNSA2",
-    "pk3359 repro@1.0.0.0" : "04tdL000000sIb3QAE"
+    "pk3359 repro@1.0.0.0" : "04tdL000000sIb3QAE",
+    "pk3359 repro@1.1.0.0" : "04tdL000000sIcfQAE"
   },
   "name" : "src"
 }
