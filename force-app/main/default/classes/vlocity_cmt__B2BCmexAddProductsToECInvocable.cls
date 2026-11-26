@@ -22,6 +22,8 @@ global class ActionInput {
     global String cartType;
     @InvocableVariable(label='Products JSON' description='A JSON array of product objects. Each product must have pricebookEntryId. Optional fields: productCode, memberIds (array), groupIds (array), attributes (array of objects with productCode, attributeCode, value).' required=true)
     global String products;
+    @InvocableVariable(label='Skip Invalid Products' description='A Boolean value that indicates whether to skip adding invalid products to the cart. If not specified, the default value is true.' required=false)
+    global Boolean skipInvalidProducts;
     global ActionInput() {
 
     }

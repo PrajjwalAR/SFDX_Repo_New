@@ -10,6 +10,7 @@ global class VlocityMobileChatterFileUpload {
     global VlocityMobileChatterFileUpload() {
 
     }
+    @Deprecated
     @HttpPost
     global static ContentVersion file(String title, String path, String data) {
         return null;

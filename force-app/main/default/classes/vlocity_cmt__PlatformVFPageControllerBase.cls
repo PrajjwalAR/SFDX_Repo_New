@@ -74,4 +74,6 @@ global virtual class PlatformVFPageControllerBase {
     global static List<String> vlocityFormulaParserFunctions() {
         return null;
     }
+global class PlatformVFPageControllerBaseException extends Exception {
+}
 }

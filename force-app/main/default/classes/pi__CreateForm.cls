@@ -20,6 +20,8 @@ global class Input {
     global String campaignId;
     @InvocableVariable(label='Flow Context' description='Flow context generated using GenerateFlowContext invocable action' required=false)
     global pi.FlowContextModel context;
+    @InvocableVariable(label='Destination Business Unit Name' description='Destination Business Unit name shown in error messages' required=false)
+    global String destinationBusinessUnitName;
     @InvocableVariable(label='Folder Id' required=true)
     global String folderId;
     @InvocableVariable(label='Form Model' required=true)

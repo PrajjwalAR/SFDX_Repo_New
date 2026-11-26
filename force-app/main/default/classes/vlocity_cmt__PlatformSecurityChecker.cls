@@ -78,6 +78,12 @@ global class PlatformSecurityChecker {
     global static void checkViewSetupConfiguration() {
 
     }
+    global static void enforceOmnistudioRestEntitlement() {
+
+    }
+    global static Boolean hasOmnistudioEntitlement() {
+        return null;
+    }
     global static Boolean isAdvancedOmnistudioAccessCheckEnabled() {
         return null;
     }
@@ -87,10 +93,22 @@ global class PlatformSecurityChecker {
     global static Boolean isDMLoadFLSCheckRequired() {
         return null;
     }
+    global static Boolean isDRBundleAndTrackingCRUDChecksEnforced() {
+        return null;
+    }
+    global static Boolean isDisableFlagEnabled(String settingName) {
+        return null;
+    }
     global static Boolean isEnableQueryWithFLSEnabled() {
         return null;
     }
     global static Boolean isEnforceDMFLSAndDataEncryptionEnabled() {
+        return null;
+    }
+    global static Boolean isEnforceSecurityFLSValidationPkgEnabled() {
+        return null;
+    }
+    global static Boolean isLegacyCompatibilityModeEnabled() {
         return null;
     }
     global static Boolean isRevertDMLoadFLSCheckEnabled() {
