@@ -1,10 +1,17 @@
 {
   "packageDirectories" : [ {
     "path" : "force-app",
-    "default" : true
+    "default" : true,
+    "package" : "weretr",
+    "scopeProfiles" : "false",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "67.0",
+  "packageAliases" : {
+    "weretr" : "0HodL0000007WSzSAM"
+  },
   "name" : "src"
 }
